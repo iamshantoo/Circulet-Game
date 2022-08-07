@@ -10,6 +10,9 @@ public class UIController : MonoBehaviour
     GameObject MenuPanel;
 
     [SerializeField]
+    GameObject ExitPanel;
+
+    [SerializeField]
     GameObject PausePanel;
 
     [SerializeField]
@@ -150,6 +153,12 @@ public class UIController : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void QuitGame()
+    {
+        ExitPanel.SetActive(true);
+        // Application.Quit();
     }
 
     
