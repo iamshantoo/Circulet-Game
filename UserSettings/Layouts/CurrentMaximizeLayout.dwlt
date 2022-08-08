@@ -57,12 +57,12 @@ MonoBehaviour:
   m_SerializedViewNames:
   - UnityEditor.GameView
   m_SerializedViewValues:
-  - C:\Users\iamsh\Documents\GitHub\Circulet-Game\Library\PlayModeViewStates\0eb2b1fd42ac1bc479ba311e5d19bb54
+  - C:\Users\iamsh\Documents\GitHub\Circulet-Game\Library\PlayModeViewStates\fa8df7b1d695d7442855b71f08c0148f
   m_PlayModeViewName: Device Simulator
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 1}
-  m_TargetSize: {x: 1080, y: 2190}
+  m_TargetSize: {x: 1170, y: 2532}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -78,11 +78,11 @@ MonoBehaviour:
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
     pluginStates:
     - '{}'
-    scale: 14
+    scale: 12
     fitToScreenEnabled: 1
     rotationDegree: 0
     highlightSafeAreaEnabled: 0
-    friendlyName: Samsung Galaxy Note10
+    friendlyName: Apple iPhone 12 Pro
     networkReachability: 1
     systemLanguage: 10
 --- !u!114 &3
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 5130
+  controlID: 9912
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,9 +193,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e85f0000
-      m_LastClickedID: 24552
-      m_ExpandedIDs: 2cfbffffe85f0000fa5f000058600000
+      m_SelectedIDs: ba010000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2cfbffff58600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -493,9 +493,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.027020134, y: -0.18157989, z: 0.479696}
+    m_Target: {x: 1.1732157, y: -0.3634834, z: 0.4786157}
     speed: 2
-    m_Value: {x: -0.027020134, y: -0.18157989, z: 0.479696}
+    m_Value: {x: 1.1732157, y: -0.3634834, z: 0.4786157}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -546,9 +546,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.8534184
+    m_Target: 6.961478
     speed: 2
-    m_Value: 6.8534184
+    m_Value: 6.961478
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -667,22 +667,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/sprite2/Circulet Assets/Buttons
+    - Assets/Circulet/Sprite
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/sprite2/Circulet Assets/Buttons
+  - Assets/Circulet/Sprite
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\iamsh\Documents\GitHub\Circulet-Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6c620000
-    m_LastClickedID: 25196
-    m_ExpandedIDs: 00000000f2610000f461000066620000
+    m_SelectedIDs: b86c0000
+    m_LastClickedID: 27832
+    m_ExpandedIDs: 00000000506200005262000064620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -710,7 +710,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f2610000f4610000
+    m_ExpandedIDs: 0000000050620000526200006a620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -735,10 +735,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: e85f0000
-    m_LastClickedInstanceID: 24552
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
+    m_SelectedInstanceIDs: ba010000
+    m_LastClickedInstanceID: 442
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000c0670000b2610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
