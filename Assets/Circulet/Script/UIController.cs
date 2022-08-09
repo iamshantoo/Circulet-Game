@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using TMPro;
 
 public class UIController : MonoBehaviour
 {
@@ -16,24 +17,25 @@ public class UIController : MonoBehaviour
     GameObject PausePanel;
 
     [SerializeField]
-    Text highScoreTextPause;
+    TMP_Text highScoreTextPause;
 
     [SerializeField]
-    Text scoreTextGameover;
+    TMP_Text scoreTextGameover;
 
     [SerializeField]
-    Text highScoreTextGameover;
+    TMP_Text highScoreTextGameover;
 
     [SerializeField]
     GameObject GameoverPanel;
 
     [SerializeField]
-    Text scoreText;
+    TMP_Text scoreText;
 
     [SerializeField]
     Text TutorialText;
 
     public int ScoreFactor;
+
 
     int playScore;
 

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using TMPro;
 
 [AddComponentMenu("UI/Menu Controller")]
 public class MenuController : MonoBehaviour
@@ -12,7 +13,7 @@ public class MenuController : MonoBehaviour
     [Header("UI Objects")]
     public Image Sound;
     public Image Music;
-    public Text HighScoreText;
+    public TMP_Text HighScoreText;
     #endregion
 
     #region Event Functions
