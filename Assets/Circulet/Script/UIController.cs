@@ -101,6 +101,7 @@ public class UIController : MonoBehaviour
         TheGlobals.playingMode = true;
         StartCoroutine(FadeoutTutorial());
         TheGlobals.sManager.bgMusic.volume = 0.6f;
+        //GameoverPanel.SetActive(false);
     }
 
     public void PauseGame()
