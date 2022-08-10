@@ -158,6 +158,19 @@ public class UIController : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
+    // public void ResetGame()
+    // {
+    //     GameoverPanel.SetActive(false);
+    //     GarbageCollectionManager.CollectGarbage();
+    //     Time.timeScale = 1f;
+    //     MenuPanel.SetActive(false);
+    //     TutorialText.gameObject.SetActive(true);
+    //     _spawner.Spawner();
+    //     TheGlobals.playingMode = true;
+    //     StartCoroutine(FadeoutTutorial());
+    //     TheGlobals.sManager.bgMusic.volume = 0.6f;
+    // }
+
     public void QuitGame()
     {
         ExitPanel.SetActive(true);
